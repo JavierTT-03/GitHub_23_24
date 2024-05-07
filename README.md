@@ -1,1 +1,3 @@
-# GitHub_23_24
+Examen GitHub
+Javier Tomás Tormo
+Curso 2023-2024
